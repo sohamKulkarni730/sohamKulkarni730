@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohamKulkarni730
 - 👀 I’m interested in Big Data, Data engineering, Cloud engineering, Machine learning
-- 🌱 I’m currently learning Kafka with spark
+- 🌱 I’m currently learning DATA ENGINEERING WITH AZURE SERVICES 
 - 💞️ I’m looking to collaborate on any big data projects
 - 📫 How to reach me : email me on sohamkulkarni730@hotmail.com
 
